@@ -1,0 +1,20 @@
+1> C does not have boolean datatype we have to import <stdbool>
+
+2> assert.h is used to create test case
+
+3> Linkedlist impletion by stack
+  
+ 1> for push and pop it uses o(n)
+
+
+
+4> Implementaion of array using stack
+
+  why we increase size of array by --> size*2
+
+   1> push operation in arr --> for(n) ---> It will take  --> N+(2*(N-1));
+        3N - 1 --> O(n)
+
+
+
+5> Heap is always slower than stack --->
